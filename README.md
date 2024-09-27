@@ -23,7 +23,9 @@ using these commands:
 Published in <a href="https://www.aanda.org/articles/aa/full_html/2024/08/aa50288-24/aa50288-24.html">A&A
 Volume 688, L11 (2024)</a>.
 
-<video width="450" height="300" src="https://github.com/mkenworthy/ASASSN-21js/blob/main/ASASSN-21js.mp4"></video>
+<!-- <video width="450" height="300"
+src="https://github.com/mkenworthy/ASASSN-21js/blob/main/ASASSN-21js.mp4"></video>
+-->
 
 <video width="450" height="300" src="https://github.com/user-attachments/assets/f8ca12ea-9880-4431-a6a5-75084e322e11"></video>
 
