@@ -11,14 +11,14 @@
 
 T.H. Pramono, M.A. Kenworthy, and R. van Boekel
 
-This paper is written using the showyourwork! framework, which means all
-the figures and the paper itself can be recompiled from the raw data
-using these commands:
+This paper is written using the showyourwork! framework, which means all the figures and the paper itself can be recompiled from the raw data using these commands:
 
     git clone https://github.com/mkenworthy/ASASSN-21js.git
     cd ASASSN-21js
     pip install -U showyourwork
     showyourwork build
+
+It takes around 30 minutes to build, most of the time taken downloading the chains from Zenodo.
 
 Published in <a href="https://www.aanda.org/articles/aa/full_html/2024/08/aa50288-24/aa50288-24.html">A&A
 Volume 688, L11 (2024)</a>.

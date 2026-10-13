@@ -30,13 +30,12 @@ datasets:
     contents:
       mcmc_20240208.tar.gz:
         mcmc_20240208_backup_2e6.h5: src/data/mcmc_20240208_backup_2e6.h5
-      
       ASASSN_lc_new230124.csv: src/data/ASASSN_lc_new230124.csv
 
 # Custom file dependencies
 dependencies:
-    src/scripts/Data_Preprocessing_Clean.py:
-      - src/data/ASASSN_lc_new230124.csv
+    # src/scripts/Data_Preprocessing_Clean.py:
+    #   - src/data/ASASSN_lc_new230124.csv
     src/scripts/Reproduce_Corner_Plot.py:
       - src/data/mcmc_20240208_backup_2e6.h5
     src/scripts/Reproduce_Figure_Mult_Models.py:

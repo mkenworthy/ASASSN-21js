@@ -1,15 +1,15 @@
 dependencies:
-  - conda-forge::numpy
-  - conda-forge::pip
+  - conda-forge::numpy=1.26
+  - conda-forge::pip=25.2
   - conda-forge::python=3.9
-  - conda-forge::pandas
-  - conda-forge::astropy
-  - conda-forge::scipy
-  - conda-forge::h5py
+  - conda-forge::pandas=2.3.1
+  - conda-forge::astropy=6.0.1
+  - conda-forge::scipy=1.13.1
+  - conda-forge::h5py=3.14.0
   - pip:
-      - matplotlib
-      - uncertainties
-      - statsmodels
-      - graphviz
-      - emcee
-      - corner
+      - matplotlib==3.9.4
+      - uncertainties==3.2.3
+      - statsmodels==0.14.6
+      - graphviz==0.21
+      - emcee==3.1.6
+      - corner==2.3.0
